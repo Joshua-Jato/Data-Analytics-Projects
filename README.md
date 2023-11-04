@@ -25,6 +25,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 5. Data Modelling and Visualization.
 ## Note
 1. A good number of the above tasks was completed through brainstorming and not merely copying what the tutor was doing. I ran into some problems and figured them out by way of researching.
-2. The provided **input file** consists of the raw file for the project, provided by *codebasics* 
+2. The provided **input-file** consists of the raw file for the project ( the various tables, the mock-up dashboard, metrics list ), provided by *codebasics*.
 
 
