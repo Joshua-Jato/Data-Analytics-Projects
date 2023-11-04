@@ -20,7 +20,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Step Followed in this Project
 1. Performed ETL process (Extract Transform and Load)
 2. Data Cleaning in power query.
-3. Created measures and new columns for needs using DAX, and used them for creating visuals. ( 80% of the measures were created on my own through guidance provided on the metrics list )
+3. Created measures and new columns for needs using DAX, and used them for creating visuals. ( 80% of the measures were created on my own (without the tutor) through guidance provided on the metrics list )
 4. Data Validation
 5. Data Modelling and Visualization.
 ## Note
