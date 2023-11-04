@@ -20,10 +20,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Step Followed in this Project
 1. Performed ETL process (Extract Transform and Load)
 2. Data Cleaning in power query.
-3. Created measures and new columns for needs using DAX, and used them for creating visuals.
+3. Created measures and new columns for needs using DAX, and used them for creating visuals. ( 80% of the measures were created on my own through guidance provided on the metrics file )
 4. Data Validation
 5. Data Modelling and Visualization.
 ## Note
-A good number of the above tasks was completed through brainstorming and not merely copying what the tutor was doing.
+1. A good number of the above tasks was completed through brainstorming and not merely copying what the tutor was doing. I ran into some problems and figured them out by way of researching.
+2. The provided **input file** consists of the raw file for the project, provided by *codebasics* 
 
 
