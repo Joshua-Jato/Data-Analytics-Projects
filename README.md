@@ -12,3 +12,10 @@ How to Navigate
 Each project is organized in files:
 
 Project Files – Raw datasets, scripts, reports, or dashboards.
+
+If you’re interested in working together or have any questions, feel free to reach out via:
+📩 Email: joshuajato6@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/joshuajato10
+
+
+Thanks for visiting! 🚀
