@@ -6,10 +6,9 @@ Welcome to my Data Analytics & Machine Learning Portfolio! This repository serve
 This repository contains projects across various tools and technologies:  
 
 📊 Excel & Google Sheets – Data cleaning, transformation, and analysis.  
-
-🛢 SQL – Querying, data manipulation, and performance optimization.
-📈 Power BI – Interactive dashboards for data-driven decision-making.
-🐍 Python – Data analysis, machine learning models, and automation.
+🛢 SQL – Querying, data manipulation, and performance optimization.  
+📈 Power BI – Interactive dashboards for data-driven decision-making.  
+🐍 Python – Data analysis, machine learning models, and automation.  
 
 ## How to Navigate
 Each project is organized in files:
